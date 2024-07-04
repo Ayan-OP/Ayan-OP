@@ -1,16 +1,16 @@
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/Make%20your%20README%20(1).png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Ayan. I love playing with data!" src="./assets/Make%20your%20README%20(1).png" /></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Data Scientist from **INDIA**.
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Final Year Grad at [MNNIT ALLAHABAD](http://www.mnnit.ac.in/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love playing with **data** and have keen interest in **Data Science**.
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
