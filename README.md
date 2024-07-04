@@ -43,11 +43,11 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 <h4>:fire: Top Repositories</h4>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Ayan-OP/DataScience_with_Naruto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayan-OP&repo=DataScience_with_Naruto&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Ayan-OP/Tableau_HR_Data_Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayan-OP&repo=Tableau_HR_Data_Analysis&theme=buefy" />
 </a>
 
 <br />
