@@ -1,6 +1,6 @@
-<p align="center"><img width="80%" alt="Hello, I'm Ayan. I love playing with data!" src="./assets/Make%20your%20README%20(1).png" /></p>
+![Header](./assets/Make%20your%20README%20(1).png)
 
-<br />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 I'm a self-taught passionate Data Scientist from **INDIA**.
 
