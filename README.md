@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayan-basak-491208222/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anibasakchowdhury/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:ayaanbasak@gmail.com) [<img src = "https://github.com/Ayan-OP/Ayan-OP/blob/main/assets/resume_16542701.png" height="35" width="35">](https://drive.google.com/file/d/1y6DqEAReliE23o7JfCVKWp9U8PE7l50k/view?usp=drive_link)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayan-basak-491208222/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anibasakchowdhury/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:ayaanbasak@gmail.com)  [<img src = "https://github.com/Ayan-OP/Ayan-OP/blob/main/assets/curriculum_1736183.png" height="33" width="33">](https://drive.google.com/file/d/1y6DqEAReliE23o7JfCVKWp9U8PE7l50k/view?usp=drive_link)
 
 
 <p>
@@ -13,7 +13,7 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 
-- 🔭 Final Year Grad at [MNNIT ALLAHABAD](http://www.mnnit.ac.in/)
+- <img src="https://github.com/Ayan-OP/Ayan-OP/blob/main/assets/download%20(1).png" height="20" width="20"> Final Year Grad at [MNNIT ALLAHABAD](http://www.mnnit.ac.in/)
 
 - ❤️ I love playing with **data** and have keen interest in **Data Science**.
 
