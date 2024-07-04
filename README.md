@@ -40,7 +40,7 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h4>:fire: Top Repositories</h4>
+<h4><img src="https://github.com/Ayan-OP/Ayan-OP/blob/main/assets/deadpool.png" height="25" width="25"> Top Repositories</h4>
 
 
 <a href="https://github.com/Ayan-OP/DataScience_with_Naruto">
