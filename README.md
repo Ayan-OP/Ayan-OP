@@ -28,13 +28,16 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 
 ## Stuff I do/know 👨‍💻 🛠:
 
-<img height="20" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  <img height="20" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">  <img height="20" alt="microsoftSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">  <img height="20" alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  <img height="20" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  <img height="20" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">  <img height="20" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">  <img height="20" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">  <img height="20" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img height="20" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,opencv,regex,flask,anaconda,docker,fastapi,tensorflow,matlab,mysql,postgres,git,cpp,c)](https://skillicons.dev)
+
+<img height="20" alt="microsoftSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">  <img height="20" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  <img height="20" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">  <img height="20" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">  
 
 
-![](https://leetcode-stats-inky.vercel.app/?username=ayaanbasak)
-<img align="right" height="300" width="100%" alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-OP&theme=blue-green">
 
+<img align="left" height="300" width="47%" alt="languages used" src="https://leetcode-stats-inky.vercel.app/?username=ayaanbasak"> 
+<p>&nbsp;<img align="" height="280" width="50%" alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-OP&theme=blue-green"></p>
+
+<p><img align="center" height="300" width="60%" alt="languages used" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-OP&theme=blue-green"/></p>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
