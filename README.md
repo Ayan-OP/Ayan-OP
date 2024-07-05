@@ -34,10 +34,17 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 
 
 
-<img align="left" height="300" width="47%" alt="languages used" src="https://leetcode-stats-inky.vercel.app/?username=ayaanbasak"> 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayan-OP&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Ayan-OP" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-OP&show_icons=True&theme=blue-green" alt="Ayan-OP" /></p>
+
+<p><img align="center" src="https://leetcode-stats-inky.vercel.app/?username=ayaanbasak" alt="Ayan-OP" />
+
+<!-- <img align="left" height="300" width="47%" alt="languages used" src="https://leetcode-stats-inky.vercel.app/?username=ayaanbasak"> 
 <p>&nbsp;<img align="" height="280" width="50%" alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-OP&theme=blue-green"></p>
 
-<p><img align="center" height="300" width="60%" alt="languages used" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-OP&theme=blue-green"/></p>
+<p><img align="center" height="300" width="60%" alt="languages used" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-OP&theme=blue-green"/></p> -->
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
