@@ -21,7 +21,9 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 
 - 🌱 I’m currently learning MLOPs, GenAI and AWS.
 
-- ⚡ Fun fact: I love grooving to old school music. Yes, I am a dancer by hobby.
+- ⚡ Fun fact: I find a lot of similarity between **Data** and **Dance**. Maybe because I am a **dancer** by hobby 😂
+
+  <img align="center" src="https://github.com/Ayan-OP/Ayan-OP/blob/main/assets/Beautiful-Dance-Moves.jpg" height="200" width="200">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
