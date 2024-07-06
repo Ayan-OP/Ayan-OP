@@ -55,10 +55,10 @@ I'm a self-taught passionate Data Scientist from **INDIA**. I am in the learning
 <h4><img src="https://github.com/Ayan-OP/Ayan-OP/blob/main/assets/deadpool.png" height="25" width="25"> Top Repositories</h4>
 
 
-<a href="https://github.com/Ayan-OP/DataScience_with_Naruto">
+<a href="https://github.com/Ayan-OP/Soccer-Analytics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayan-OP&repo=Soccer-Analytics&theme=blue-green" />
 </a>
-<a href="https://github.com/Ayan-OP/Tableau_HR_Data_Analysis">
+<a href="https://github.com/Ayan-OP/DataScience_with_Naruto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayan-OP&repo=DataScience_with_Naruto&theme=blue-green" />
 </a>
 
